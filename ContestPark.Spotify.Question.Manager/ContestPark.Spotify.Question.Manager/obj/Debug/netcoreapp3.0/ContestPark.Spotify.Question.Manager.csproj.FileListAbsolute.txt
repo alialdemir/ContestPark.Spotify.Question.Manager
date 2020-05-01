@@ -1,0 +1,17 @@
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.exe
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.deps.json
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.runtimeconfig.json
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.runtimeconfig.dev.json
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.dll
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.pdb
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\obj\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.csprojAssemblyReference.cache
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\obj\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.AssemblyInfoInputs.cache
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\obj\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.AssemblyInfo.cs
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\obj\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.dll
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\obj\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.pdb
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\SpotifyAPI.Web.dll
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\obj\Debug\netcoreapp3.0\ContestPark.Spotify.Question.Manager.csproj.CopyComplete
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\Unosquare.Labs.EmbedIO.dll
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\SpotifyAPI.Web.Auth.dll
+C:\GitHub\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\ContestPark.Spotify.Question.Manager\bin\Debug\netcoreapp3.0\Unosquare.Swan.Lite.dll
